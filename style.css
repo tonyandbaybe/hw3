@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+    font-size: 50px;
+}
+h2{
+    color: red;
+    font-size: 40px;
+}
+a{
+    color: green;
+    font-size: 30px;
+    background-color: pink;
+}
